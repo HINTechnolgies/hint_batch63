@@ -1,0 +1,23 @@
+This is batch_63 folder--
+
+Below are the trainings we are provide 
+
+Git 
+
+Maven 
+
+AWS
+
+Tomcat
+
+Jenkins
+
+Ansible
+
+Docker
+
+K8
+
+WebLogic
+
+
